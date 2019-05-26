@@ -1,1 +1,3 @@
-test if smart git works.
+test if smart git
+
+change the content of the file.
