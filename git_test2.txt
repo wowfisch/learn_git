@@ -1,0 +1,6 @@
+there are four status.
+
+1. untracked - working tree
+2. staged - index
+3. modified - master
+4. added - origin
